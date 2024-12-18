@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\project_Game_Caro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project_Game_Caro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\project_Game_Caro.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project_Game_Caro.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\SocketManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocketManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Layout\\CustomButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Layout\\CustomButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Layout\\DoubleBufferedPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Layout\\DoubleBufferedPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\BtnCkickEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BtnCkickEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\ChessBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChessBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\GameCaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameCaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\GameCaro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameCaro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\InputIP.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InputIP.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\InputIP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InputIP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\PlayInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlayInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\SocketData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SocketData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:27:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoubleBufferedPanel.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Layout\\DoubleBufferedPanel.cs",
+              "RelativeDocumentMoniker": "Layout\\DoubleBufferedPanel.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Layout\\DoubleBufferedPanel.cs",
+              "RelativeToolTip": "Layout\\DoubleBufferedPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:27:14.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Layout\\CustomButton.cs",
+              "RelativeDocumentMoniker": "Layout\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Layout\\CustomButton.cs",
+              "RelativeToolTip": "Layout\\CustomButton.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:27:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InputIP.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\InputIP.cs",
+              "RelativeDocumentMoniker": "InputIP.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\InputIP.cs",
+              "RelativeToolTip": "InputIP.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:52:48.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:52:43.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "project_Game_Caro.csproj",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\project_Game_Caro.csproj",
+              "RelativeDocumentMoniker": "project_Game_Caro.csproj",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\project_Game_Caro.csproj",
+              "RelativeToolTip": "project_Game_Caro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T14:51:31.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "project_Game_Caro.csproj.user",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\project_Game_Caro.csproj.user",
+              "RelativeDocumentMoniker": "project_Game_Caro.csproj.user",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\project_Game_Caro.csproj.user",
+              "RelativeToolTip": "project_Game_Caro.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-11-23T14:51:30.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constance.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Constance.cs",
+              "RelativeDocumentMoniker": "Constance.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Constance.cs",
+              "RelativeToolTip": "Constance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:51:07.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChessBoard.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\ChessBoard.cs",
+              "RelativeDocumentMoniker": "ChessBoard.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\ChessBoard.cs",
+              "RelativeToolTip": "ChessBoard.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:45:41.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BtnCkickEvent.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\BtnCkickEvent.cs",
+              "RelativeDocumentMoniker": "BtnCkickEvent.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\BtnCkickEvent.cs",
+              "RelativeToolTip": "BtnCkickEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:45:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameCaro.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\GameCaro.cs",
+              "RelativeDocumentMoniker": "GameCaro.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\GameCaro.cs",
+              "RelativeToolTip": "GameCaro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:40:44.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameCaro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\GameCaro.Designer.cs",
+              "RelativeDocumentMoniker": "GameCaro.Designer.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\GameCaro.Designer.cs",
+              "RelativeToolTip": "GameCaro.Designer.cs",
+              "ViewState": "AgIAAPgBAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:40:28.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputIP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\InputIP.Designer.cs",
+              "RelativeDocumentMoniker": "InputIP.Designer.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\InputIP.Designer.cs",
+              "RelativeToolTip": "InputIP.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:40:20.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Start.cs",
+              "RelativeDocumentMoniker": "Start.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Start.cs",
+              "RelativeToolTip": "Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:39:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SocketData.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\SocketData.cs",
+              "RelativeDocumentMoniker": "SocketData.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\SocketData.cs",
+              "RelativeToolTip": "SocketData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:39:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocketManager.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\SocketManager.cs",
+              "RelativeDocumentMoniker": "SocketManager.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\SocketManager.cs",
+              "RelativeToolTip": "SocketManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:39:35.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayInfo.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\PlayInfo.cs",
+              "RelativeDocumentMoniker": "PlayInfo.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\PlayInfo.cs",
+              "RelativeToolTip": "PlayInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:39:24.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\datt9\\OneDrive\\Desktop\\project_Game_Caro\\project_Game_Caro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:35:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

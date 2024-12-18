@@ -1,0 +1,222 @@
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\NhiNguyen\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+D:\LAPTRINH\LAPTRINHC#\ProjectGameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\Windows\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+D:\LAPTRINH\LAPTRINHC#\GameCaro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+C:\Users\duong\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\CYBER\Source\Repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\NhiNguyen\source\repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+C:\Users\NhiNguyen\source\repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+C:\Users\NhiNguyen\source\repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.InputIP.resources
+C:\Users\NhiNguyen\source\repos\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.sourcelink.json
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.InputIP.resources
+C:\Users\NhiNguyen\Documents\LTM\project_Game_Caro\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.InputIP.resources
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\datt9\Downloads\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.InputIP.resources
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\datt9\OneDrive\Desktop\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\lettero.png
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\src\letterx.png
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.exe
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.deps.json
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.runtimeconfig.json
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.AssemblyReference.cache
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GameCaro.resources
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.InputIP.resources
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Properties.Resources.resources
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.Start.resources
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.GenerateResource.cache
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfoInputs.cache
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.AssemblyInfo.cs
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_.DF825BE5.Up2Date
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.dll
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\refint\project_Game_Caro.dll
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.pdb
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\project_Game_Caro.genruntimeconfig.cache
+C:\Users\HUNG\Documents\Zalo Received Files\project_Game_Caro\project_Game_Caro\obj\Debug\net8.0-windows\ref\project_Game_Caro.dll
